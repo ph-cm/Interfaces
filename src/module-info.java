@@ -6,4 +6,5 @@
  *
  */
 module HerancaInterface {
+	requires java.desktop;
 }
